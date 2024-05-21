@@ -1,0 +1,30 @@
+{
+    "accounts":[
+        {
+            "user_name":"admin",
+            "password":"123",
+            "auth":"admin"
+        },
+        {
+            "user_name":"user1",
+            "password":"123",
+            "auth":"user"
+        },
+        {
+            "user_name":"chef1",
+            "password":"123",
+            "auth":"chef"
+        },
+        {
+            "user_name":"tieptan1",
+            "password":"123",
+            "auth":"staff"
+        },
+        {
+            "user_name":"tiepthuc1",
+            "password":"123",
+            "auth":"reception"
+        }
+
+    ]
+}

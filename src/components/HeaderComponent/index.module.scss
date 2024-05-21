@@ -1,0 +1,20 @@
+.nav {
+    display: flex;
+    font-size: 25px;
+    padding: 20px;
+    justify-content: space-between;
+    position: relative;
+}
+
+.header_right {
+    display: flex;
+    gap: 25px;
+}
+
+.header .logo {
+    position: absolute;
+    width: 160px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -13px;
+}

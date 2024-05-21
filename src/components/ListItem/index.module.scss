@@ -1,0 +1,73 @@
+.list_item {
+    width: 90%;
+    height: 80px;
+    /* background-color: orange; */
+    border: 2px solid #ffc964;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    position: relative;
+}
+
+.list_item img {
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 3px;
+}
+.list_item .right{
+    /* width: 200px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.list_item .name {
+    font-size: 16px;
+    font-weight: 500;
+}
+.infor{
+    display: flex;
+    /* justify-content: space-between; */
+    font-size: 10px;
+    gap: 20px;
+}
+.infor i{
+    font-size: 10px;
+    transform: translate(-1px,-0px);
+}
+button{
+}
+.cancel_btn{
+    position: absolute;
+    top: 50%;
+    margin: 0 ;
+    transform: translateY(-50%);
+    width: 80px;
+    font-size: 14px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc ;
+    background-image: none;
+    right: 150px;
+    
+}
+.submit_btn{
+    position: absolute;
+    top: 50%;
+    margin: 0 ;
+    transform: translateY(-50%);
+    width: 120px;
+    font-size: 14px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffc964 ;
+    background-image: none;
+    right: 20px;
+    
+}
