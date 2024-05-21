@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quanlyquannet/static/css/main.22d075bf.css",
+    "main.js": "/quanlyquannet/static/js/main.c3f59c73.js",
+    "static/media/logo.png": "/quanlyquannet/static/media/logo.509968b12d5ebfdd729b.png",
+    "static/media/headerImg.jpg": "/quanlyquannet/static/media/headerImg.52550478fd013431b112.jpg",
+    "index.html": "/quanlyquannet/index.html",
+    "main.22d075bf.css.map": "/quanlyquannet/static/css/main.22d075bf.css.map",
+    "main.c3f59c73.js.map": "/quanlyquannet/static/js/main.c3f59c73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22d075bf.css",
+    "static/js/main.c3f59c73.js"
+  ]
+}
